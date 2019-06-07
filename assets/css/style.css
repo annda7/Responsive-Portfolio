@@ -242,12 +242,3 @@ input[type=submit] {
     #logo {
     width: 100%;
 }
-
-/* @media only screen and (max-width: 980px){
-  
-  nav ul {
-    height:230px;
-    flex-direction: column;
-    text-align: center;
-  }
-} */
